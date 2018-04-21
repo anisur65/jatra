@@ -1,0 +1,2 @@
+# jatra
+django app
